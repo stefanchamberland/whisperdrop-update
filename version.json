@@ -1,0 +1,12 @@
+{
+  "product": "whisperdrop",
+  "version": "2.0.6",
+  "notes": "- A French-first license agreement explains the one-year, one-device license and 30-day refund, including after activation. Existing perpetual entitlements are preserved. You will be asked to accept the agreement once.\n- What's new is now available from Settings and appears once after updating.\n- Check for updates in Settings. Update prompts include release notes; downloads are verified before being saved and never install automatically.\n- Open-source notices and local-processing/privacy details are available in Settings.\n- More consistent saving of unfinished work and preferences, with consolidated native-tool discovery.\n- Improved application security and packaging checks for native tools, licenses and the bundled speech model.",
+  "files": {
+    "macos_arm": {
+      "file": "WhisperDrop-mac-arm-2.0.6.zip",
+      "size": 739344207,
+      "sha256": "62befad6298f7ea50eb54bbbcbafb7fe8c83d9940d046a18c2669223a11e606b"
+    }
+  }
+}
